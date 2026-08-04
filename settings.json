@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "gig44ch4d.aternos.me",
-    "port": 26009,
+    "ip": "testernikk.aternos.me",
+    "port": 11715,
     "version": "1.21.11",
     "try-creative": false
   },
